@@ -8,7 +8,7 @@ The shopping cart application allows users to browse items, add them to their ca
 
 ## Screenshot
 
-![](test.gif)
+![](/screenshot/cart.gif)
 
 ## Features
 
